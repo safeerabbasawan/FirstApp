@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirtstApp</string>
+    <string name="hintusername">Username</string>
+    <string name="hintpassword">Password</string>
+    <string name="aboutbt">About</string>
+    <string name="detailbt">Detail</string>
+    <string name="contactbt">Contact</string>
+    <string name="headsign">SIGN IN</string>
+</resources>
